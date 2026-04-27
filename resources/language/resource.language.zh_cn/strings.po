@@ -7,507 +7,531 @@ msgstr ""
 "Project-Id-Version: XBMC-Addons\n"
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
 "POT-Creation-Date: 2014-10-26 17:05+0000\n"
-"PO-Revision-Date: 2025-10-07 10:00+0200\n"
-"Language-Team: alKODIque\n"
+"PO-Revision-Date: 2026-04-14 10:44+0800\n"
+"Last-Translator: wabisabi926\n"
+"Language-Team: LANGUAGE\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fr_FR\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"Last-Translator: Bindou\n"
-"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 #: /resources/lib/script.py
 msgctxt "#32000"
 msgid "Constructing Variables..."
-msgstr "Construction des variables..."
+msgstr "构建变量..."
 
 #: /resources/lib/script.py
 msgctxt "#32001"
 msgid "Skin Variables"
-msgstr "Skin Variables"
+msgstr "皮肤变量"
 
 #: /resources/lib/viewtypes.py
 msgctxt "#32002"
 msgid "Skin Viewtypes"
-msgstr "Types de vues"
+msgstr "皮肤视图类型"
 
 #: /resources/lib/viewtypes.py
 msgctxt "#32003"
 msgid "Constructing Viewtypes..."
-msgstr "Construction des types de vues..."
+msgstr "构建视图类型..."
 
 #: /resources/lib/viewtypes.py
 msgctxt "#32004"
 msgid "Choose viewtype"
-msgstr "Choisissez le type de vue"
+msgstr "选择视图类型"
 
 #: /resources/lib/viewtypes.py
 msgctxt "#32005"
 msgid "Building default rules for"
-msgstr "Création des règles par défaut pour"
+msgstr "构建默认规则"
 
 #: /resources/lib/viewtypes.py
 msgctxt "#32006"
 msgid "Building definitions for view IDs..."
-msgstr "Création des définitions pour les ID de vue..."
+msgstr "构建视图 ID 的定义..."
 
 #: /resources/lib/viewtypes.py
 msgctxt "#32007"
 msgid "Building visibility expressions..."
-msgstr "Création des expressions de visibilité..."
+msgstr "构建可见性表达式..."
 
 #: /resources/lib/viewtypes.py
 msgctxt "#32008"
 msgid "Building XML..."
-msgstr "Création du XML..."
+msgstr "构建 XML..."
 
 #: /resources/lib/viewtypes.py
 msgctxt "#32009"
 msgid "Choose plugin to customise"
-msgstr "Choisissez l'extension à personnaliser"
+msgstr "选择自定义插件"
 
 #: /resources/lib/viewtypes.py
 msgctxt "#32010"
 msgid "Choose content to customise"
-msgstr "Choisissez le contenu à personnaliser"
+msgstr "选择要自定义的内容"
 
 #: /resources/lib/viewtypes.py
 msgctxt "#32011"
 msgid "Reset all {} views..."
-msgstr "Réinitialiser toutes les vues {}..."
+msgstr "重置所有 {} 视图..."
 
 #: /resources/lib/viewtypes.py
 msgctxt "#32012"
 msgid "Add plugin view..."
-msgstr "Ajouter une vue pour l'extension..."
+msgstr "添加插件视图..."
 
 #: /resources/lib/viewtypes.py
 msgctxt "#32013"
 msgid "Customise viewtypes"
-msgstr "Personnaliser les types de vues"
+msgstr "自定义视图类型"
 
 #: /resources/lib/viewtypes.py
 msgctxt "#32014"
 msgid "Reset {} Views"
-msgstr "Réinitialiser les vues {}"
+msgstr "重置 {}视图"
 
 #: /resources/lib/viewtypes.py
 msgctxt "#32015"
 msgid "Do you wish to reset all {} views to default"
-msgstr "Souhaitez-vous réinitialiser toutes les vues {} par défaut"
+msgstr "是否要将所有{}视图重置为默认值"
 
 #: /resources/lib/skinshortcuts.menu.py
 msgctxt "#32016"
 msgid "Choose item to modify"
-msgstr "Choisissez l'élément à modifier"
+msgstr "选择要修改的项目"
 
 #: /resources/lib/skinshortcuts.menu.py
 msgctxt "#32017"
 msgid "Choose item to delete"
-msgstr "Choisissez l'élément à supprimer"
+msgstr "选择要删除的项目"
 
 #: /resources/lib/skinshortcuts.menu.py
 msgctxt "#32018"
-msgid "Successfully added\n[B]{}[/B]\nto\n[B]{}[/B]"
-msgstr "[B]{}[/B]\najouté avec succès à\n[B]{}[/B]"
+msgid ""
+"Successfully added\n"
+"[B]{}[/B]\n"
+"to\n"
+"[B]{}[/B]"
+msgstr ""
+"成功添加\n"
+"[B]{}[/B]\n"
+"到\n"
+"[B]{}[/B]"
 
 #: /resources/lib/skinshortcuts.menu.py
 msgctxt "#32019"
 msgid "Import menu"
-msgstr "Importer le menu"
+msgstr "导入菜单"
 
 #: /resources/lib/skinshortcuts.menu.py
 msgctxt "#32020"
 msgid "Added to menu"
-msgstr "Ajouté au menu"
+msgstr "已添加到菜单"
 
 #: /resources/lib/skinshortcuts.menu.py
 msgctxt "#32021"
 msgid "Add to menu"
-msgstr "Ajouter au menu"
+msgstr "添加到菜单"
 
 #: /resources/lib/skinshortcuts.menu.py
 msgctxt "#32022"
 msgid "No skinshortcuts found to import."
-msgstr "Aucun raccourci d'habillage à importer n'a été trouvé."
+msgstr "未找到可导入的皮肤快捷方式。"
 
 #: /resources/lib/skinshortcuts.menu.py
 msgctxt "#32023"
 msgid "Add as menu"
-msgstr "Ajouter comme menu"
+msgstr "添加为菜单"
 
 #: /resources/lib/skinshortcuts.menu.py
 msgctxt "#32024"
 msgid "Added as menu"
-msgstr "Ajouté comme menu"
+msgstr "已添加为菜单"
 
 #: /resources/lib/skinshortcuts.menu.py
 msgctxt "#32025"
-msgid "Successfully added\n[B]{}[/B]\nas\n[B]{}[/B]"
-msgstr "[B]{}[/B]\najouté avec succès comme\n[B]{}[/B]"
+msgid ""
+"Successfully added\n"
+"[B]{}[/B]\n"
+"as\n"
+"[B]{}[/B]"
+msgstr ""
+"成功添加\n"
+"[B]{}[/B]\n"
+"为\n"
+"[B]{}[/B]"
 
 #: /resources/lib/skinshortcuts.menu.py
 msgctxt "#32026"
 msgid "Overwrite menu"
-msgstr "Écraser le menu"
+msgstr "覆盖菜单"
 
 #: /resources/lib/skinshortcuts.menu.py
 msgctxt "#32027"
 msgid "Importing will overwrite your current menus and setup. Are you sure?"
-msgstr "L'importation écrasera vos menus et votre configuration actuels. Êtes-vous sûr ?"
+msgstr "导入将覆盖您当前的菜单和设置。你确定吗？"
 
 #: /resources/lib/skinshortcuts.menu.py
 msgctxt "#32028"
-msgid "Successfully imported\n[B]{}[/B]\nto\n[B]{}[/B]"
-msgstr "[B]{}[/B]\nimporté avec succès dans\n[B]{}[/B]"
+msgid ""
+"Successfully imported\n"
+"[B]{}[/B]\n"
+"to\n"
+"[B]{}[/B]"
+msgstr ""
+"成功导入\n"
+"[B]{}[/B]\n"
+"到\n"
+"[B]{}[/B]"
 
 #: /resources/lib/skinshortcuts.menu.py
 msgctxt "#32029"
 msgid "Choose item"
-msgstr "Choisir un élément"
+msgstr "选择项目"
 
 #: /resources/lib/lists/filterdir.py
 msgctxt "#32030"
 msgid "Add another path?"
-msgstr "Ajouter un autre chemin ?"
+msgstr "添加另一条路径？"
 
 #: /resources/lib/lists/filterdir.py
 msgctxt "#32031"
 msgid "Add an additional path to the filter."
-msgstr "Ajouter un chemin supplémentaire au filtre."
+msgstr "为过滤器添加额外路径。"
 
 #: /resources/lib/lists/filterdir.py
 msgctxt "#32032"
 msgid "[CAPITALIZE]{}[/CAPITALIZE] method"
-msgstr "Méthode [CAPITALIZE]{}[/CAPITALIZE]"
+msgstr "[CAPITALIZE]{}[/CAPITALIZE] 方法"
 
 #: /resources/lib/lists/filterdir.py
 msgctxt "#32033"
 msgid "Sort"
-msgstr "Trier"
+msgstr "排序"
 
 #: /resources/lib/lists/filterdir.py
 msgctxt "#32034"
 msgid "Enter custom [LOWERCASE]{}[/LOWERCASE] infolabel or property name"
-msgstr "Saisir une étiquette d'information ou un nom de propriété personnalisé [LOWERCASE]{}[/LOWERCASE]"
+msgstr "输入自定义 [LOWERCASE]{}[/LOWERCASE] 信息标签或属性名称"
 
 #: /resources/lib/lists/filterdir.py
 msgctxt "#32035"
 msgid "Enter custom [LOWERCASE]{}[/LOWERCASE] value to match"
-msgstr "Saisir la valeur personnalisée [LOWERCASE]{}[/LOWERCASE] à faire correspondre"
+msgstr "输入自定义 [LOWERCASE]{}[/LOWERCASE] 值以匹配"
 
 #: /resources/lib/lists/filterdir.py
 msgctxt "#32036"
 msgid "Less than <"
-msgstr "Inférieur à <"
+msgstr "小于 <"
 
 #: /resources/lib/lists/filterdir.py
 msgctxt "#32037"
 msgid "Less than or equal <="
-msgstr "Inférieur ou égal à <="
+msgstr "小于或等于 <="
 
 #: /resources/lib/lists/filterdir.py
 msgctxt "#32038"
 msgid "Equal =="
-msgstr "Égal à =="
+msgstr "等于 ="
 
 #: /resources/lib/lists/filterdir.py
 msgctxt "#32039"
 msgid "Not equal !="
-msgstr "Différent de !="
+msgstr "不等于 !="
 
 #: /resources/lib/lists/filterdir.py
 msgctxt "#32040"
 msgid "Greater than or equal >="
-msgstr "Supérieur ou égal à >="
+msgstr "大于或等于 >="
 
 #: /resources/lib/lists/filterdir.py
 msgctxt "#32041"
 msgid "Greater than >"
-msgstr "Supérieur à >"
+msgstr "大于 >"
 
 #: /resources/lib/lists/filterdir.py
 msgctxt "#32042"
 msgid "Delete path"
-msgstr "Supprimer le chemin"
+msgstr "删除路径"
 
 #: /resources/lib/lists/filterdir.py
 msgctxt "#32043"
 msgid "[COLOR=red][B]WARNING[/B][/COLOR]: This action cannot be undone."
-msgstr "[COLOR=red][B]ATTENTION[/B][/COLOR] : Cette action est irréversible."
+msgstr "[COLOR=red][B]警告[/B][/COLOR]：此操作无法撤销。"
 
 #: /resources/lib/lists/filterdir.py
 msgctxt "#32044"
 msgid "Save changes"
-msgstr "Enregistrer les modifications"
+msgstr "保存更改"
 
 #: /resources/lib/lists/filterdir.py
 msgctxt "#32045"
 msgid "Changes will be discarded if you do not save."
-msgstr "Les modifications seront perdues si vous n'enregistrez pas."
+msgstr "如果不保存，更改将被丢弃。"
 
 #: /resources/lib/shortcuts/template.py
 msgctxt "#32046"
 msgid "Generating globals"
-msgstr "Génération des globales"
+msgstr "生成全局"
 
 #: /resources/lib/shortcuts/template.py
 msgctxt "#32047"
 msgid "Generating content"
-msgstr "Génération du contenu"
+msgstr "生成内容"
 
 #: /resources/lib/shortcuts/template.py
 msgctxt "#32048"
 msgid "Formatting content"
-msgstr "Formatage du contenu"
+msgstr "内容格式"
 
 #: /resources/lib/shortcuts/template.py
 msgctxt "#32049"
 msgid "Creating XML"
-msgstr "Création du XML"
+msgstr "创建 XML"
 
 #: /resources/lib/shortcuts/browser.py
 msgctxt "#32050"
 msgid "Add playlist"
-msgstr "Ajouter une liste de lecture"
+msgstr "添加播放列表"
 
 #: /resources/lib/shortcuts/browser.py
 msgctxt "#32051"
 msgid "Add playlist as playable shortcut or a browseable directory?"
-msgstr "Ajouter la liste de lecture comme raccourci lisible ou répertoire navigable ?"
+msgstr "将播放列表添加为可播放快捷方式还是可浏览目录？"
 
 #: /resources/lib/shortcuts/browser.py
 msgctxt "#32052"
 msgid "Add folder"
-msgstr "Ajouter un dossier"
+msgstr "添加文件夹"
 
 #: /resources/lib/shortcuts/jsonrpc.py
 msgctxt "#32053"
 msgid "Building directory"
-msgstr "Construction du répertoire"
+msgstr "构建目录"
 
 #: /resources/lib/lists/skinusers.py
 msgctxt "#32054"
 msgid "Enter profile name"
-msgstr "Entrez le nom du profil"
+msgstr "输入配置文件名称"
 
 #: /resources/lib/lists/skinusers.py
 msgctxt "#32055"
 msgid "Add pin-code lock"
-msgstr "Ajouter un verrouillage par code PIN"
+msgstr "添加密码锁"
 
 #: /resources/lib/lists/skinusers.py
 msgctxt "#32056"
 msgid "Adding a pin-code lock will require users to enter the code before accessing the profile."
-msgstr "L'ajout d'un verrouillage par code PIN obligera les utilisateurs à saisir le code avant d'accéder au profil."
+msgstr "添加密码锁后，用户在访问个人资料前必须输入密码。"
 
 #: /resources/lib/lists/skinusers.py
 msgctxt "#32057"
 msgid "Enter pin-code"
-msgstr "Entrez le code PIN"
+msgstr "输入密码"
 
 #: /resources/lib/lists/skinusers.py
 msgctxt "#32058"
 msgid "Re-enter pin-code"
-msgstr "Ressaisissez le code PIN"
+msgstr "重新输入密码"
 
 #: /resources/lib/lists/skinusers.py
 msgctxt "#32059"
 msgid "Wrong pin code!"
-msgstr "Code PIN erroné !"
+msgstr "密码错误！"
 
 #: /resources/lib/lists/skinusers.py
 msgctxt "#32060"
 msgid "Incorrect pin code entered."
-msgstr "Le code PIN saisi est incorrect."
+msgstr "输入的密码不正确。"
 
 #: /resources/lib/lists/skinusers.py
 msgctxt "#32061"
 msgid "Default profile"
-msgstr "Profil par défaut"
+msgstr "默认配置文件"
 
 #: /resources/lib/lists/skinusers.py
 msgctxt "#32062"
 msgid "Never logged in"
-msgstr "Jamais connecté"
+msgstr "从未登录"
 
 #: /resources/lib/lists/skinusers.py
 msgctxt "#32063"
 msgid "Access denied!"
-msgstr "Accès refusé !"
+msgstr "拒绝访问！"
 
 #: /resources/lib/lists/skinusers.py
 msgctxt "#32064"
 msgid "Delete user profile"
-msgstr "Supprimer le profil utilisateur"
+msgstr "删除用户配置文件"
 
 #: /resources/lib/lists/skinusers.py
 msgctxt "#32065"
 msgid "This will delete the skin profile for {}."
-msgstr "Cette opération supprimera le profil d'habillage pour {}."
+msgstr "这将删除 {} 的皮肤配置文件。"
 
 #: /resources/lib/lists/skinusers.py
 msgctxt "#32066"
 msgid "Rename user profile"
-msgstr "Renommer le profil utilisateur"
+msgstr "重命名用户配置文件"
 
 #: /resources/lib/shortcuts/method.py
 msgctxt "#32067"
 msgid "No item path found!"
-msgstr "Aucun chemin d'élément trouvé !"
+msgstr "未找到项目路径！"
 
 #: /resources/lib/shortcuts/method.py
 msgctxt "#32068"
 msgid "No path found"
-msgstr "Aucun chemin trouvé"
+msgstr "未找到路径"
 
 #: /resources/lib/shortcuts/method.py
 msgctxt "#32069"
 msgid "Choose menu"
-msgstr "Choisir un menu"
+msgstr "选择菜单"
 
 #: /resources/lib/shortcuts/method.py
 msgctxt "#32070"
 msgid "Choose mode"
-msgstr "Choisir un mode"
+msgstr "选择模式"
 
 #: /resources/lib/shortcuts/method.py
 msgctxt "#32071"
 msgid "Add here"
-msgstr "Ajouter ici"
+msgstr "在此处添加"
 
 #: /resources/lib/shortcuts/method.py
 msgctxt "#32072"
 msgid "Overwrite {filename} with {content}?"
-msgstr "Écraser {filename} avec {content} ?"
+msgstr "用 {content} 覆盖 {filename}？"
 
 #: /resources/lib/shortcuts/method.py
 msgctxt "#32073"
 msgid "your {skin} menu files"
-msgstr "vos fichiers de menu {skin}"
+msgstr "您的 {skin} 菜单文件"
 
 #: /resources/lib/shortcuts/method.py
 msgctxt "#32074"
 msgid "the menu files from the [B]{folder}[/B] folder"
-msgstr "les fichiers de menu du dossier [B]{folder}[/B]"
+msgstr "[B]{folder}[/B] 文件夹中的菜单文件"
 
 #: /resources/lib/shortcuts/method.py
 msgctxt "#32075"
 msgid "Overwrite files?"
-msgstr "Écraser les fichiers ?"
+msgstr "覆盖文件？"
 
 #: /resources/lib/shortcuts/method.py
 msgctxt "#32076"
 msgid "No files found!"
-msgstr "Aucun fichier trouvé !"
+msgstr "未找到文件！"
 
 #: /resources/lib/shortcuts/node.py
 msgctxt "#32077"
 msgid "Icon"
-msgstr "Icône"
+msgstr "图标"
 
 #: /resources/lib/shortcuts/node.py
 msgctxt "#32078"
 msgid "Add item"
-msgstr "Ajouter un élément"
+msgstr "添加项目"
 
 #: /resources/lib/shortcuts/node.py
 msgctxt "#32079"
 msgid "Rebuild shortcuts"
-msgstr "Reconstruire les raccourcis"
+msgstr "重建快捷方式"
 
 #: /resources/lib/shortcuts/node.py
 msgctxt "#32080"
 msgid "Rebuild shortcuts template to include recent changes?"
-msgstr "Reconstruire le modèle de raccourcis pour inclure les changements récents ?"
+msgstr "重建快捷方式模板以包含最新更改？"
 
 #: /resources/lib/shortcuts/node.py
 msgctxt "#32081"
 msgid "Restore shortcuts"
-msgstr "Restaurer les raccourcis"
+msgstr "恢复快捷方式"
 
 #: /resources/lib/shortcuts/node.py
 msgctxt "#32082"
 msgid "Restoring shortcuts resets all shortcuts to skin defaults."
-msgstr "La restauration des raccourcis réinitialise tous les raccourcis aux valeurs par défaut de l'habillage."
+msgstr "恢复快捷方式会将所有快捷方式重置为皮肤默认设置。"
 
 #: /resources/lib/shortcuts/node.py
 msgctxt "#32083"
 msgid "Add list"
-msgstr "Ajouter une liste"
+msgstr "添加列表"
 
 #: /resources/lib/shortcuts/node.py
 msgctxt "#32084"
 msgid "[B][COLOR=red]WARNING[/COLOR][/B]: Adding this list will add {item_count} new items (skipping {skip_count} existing items previously added). This action cannot be undone."
-msgstr "[B][COLOR=red]ATTENTION[/COLOR][/B] : L'ajout de cette liste ajoutera {item_count} nouveaux éléments (en ignorant {skip_count} éléments existants déjà ajoutés). Cette action est irréversible."
+msgstr "[B][COLOR=red]警告[/COLOR][/B]：添加此列表将添加 {item_count} 新项目（跳过之前添加的 {skip_count} 现有项目）。此操作无法撤销。"
 
 #: /resources/lib/shortcuts/node.py
 msgctxt "#32085"
 msgid "No new items to add!"
-msgstr "Aucun nouvel élément à ajouter !"
+msgstr "无新项目添加！"
 
 #: /resources/lib/shortcuts/node.py
 msgctxt "#32086"
 msgid "This list contains {item_count} items. The current max item limit is {item_limit}. This list will not be added."
-msgstr "Cette liste contient {item_count} éléments. La limite maximale actuelle est de {item_limit}. Cette liste ne sera pas ajoutée."
+msgstr "此列表包含 {item_count} 项目。当前最大项目限制为 {item_limit}。将不会添加此列表。"
 
 #: /resources/lib/shortcuts/node.py
 msgctxt "#32087"
 msgid "Delete list"
-msgstr "Supprimer la liste"
+msgstr "删除列表"
 
 #: /resources/lib/shortcuts/node.py
 msgctxt "#32088"
 msgid "[B][COLOR=red]WARNING[/COLOR][/B]: Deleting this list will remove {item_count} existing items. This action cannot be undone."
-msgstr "[B][COLOR=red]ATTENTION[/COLOR][/B] : La suppression de cette liste retirera {item_count} éléments existants. Cette action est irréversible."
+msgstr "[B][COLOR=red]警告[/COLOR][/B]：删除此列表将删除 {item_count} 现有项目。此操作无法撤销。"
 
 #: /resources/lib/shortcuts/node.py
 msgctxt "#32089"
 msgid "No items to delete!"
-msgstr "Aucun élément à supprimer !"
+msgstr "没有要删除的项目！"
 
 #: /resources/lib/shortcuts/node.py
 msgctxt "#32090"
 msgid "Choose shortcut"
-msgstr "Choisir un raccourci"
+msgstr "选择快捷方式"
 
 #: /resources/lib/shortcuts/node.py
 msgctxt "#32091"
 msgid "Refresh shortcuts"
-msgstr "Actualiser les raccourcis"
+msgstr "刷新快捷方式"
 
 #: /resources/lib/shortcuts/node.py
 msgctxt "#32092"
 msgid "Configure submenu"
-msgstr "Configurer le sous-menu"
+msgstr "配置子菜单"
 
 #: /resources/lib/shortcuts/node.py
 msgctxt "#32093"
 msgid "Configure widgets"
-msgstr "Configurer les widgets"
+msgstr "配置小组件"
 
 #: /resources/lib/lists/filterdir.py
 msgctxt "#32094"
 msgid "Edit filters"
-msgstr "Modifier les filtres"
+msgstr "编辑过滤器"
 
 #: /resources/lib/lists/filterdir.py
 msgctxt "#32095"
 msgid "Add new"
-msgstr "Ajouter"
+msgstr "新增"
 
 #: /resources/lib/lists/skinusers.py
 msgctxt "#32096"
 msgid "Add new user"
-msgstr "Ajouter un nouvel utilisateur"
+msgstr "添加新用户"
 
 #: /resources/lib/lists/skinusers.py
 msgctxt "#32097"
 msgid "Enable default user"
-msgstr "Activer l'utilisateur par défaut"
+msgstr "启用默认用户"
 
 #: /resources/lib/lists/skinusers.py
 msgctxt "#32098"
 msgid "Disable default user"
-msgstr "Désactiver l'utilisateur par défaut"
+msgstr "禁用默认用户"
